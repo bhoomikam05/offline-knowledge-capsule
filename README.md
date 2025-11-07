@@ -4,32 +4,34 @@
 ---
 
 ## 🚀 Project Overview
-**Offline Knowledge Capsule** is an innovative application that allows users to **store, organize, and access information completely offline**.  
-It is designed to help users maintain important notes, learning materials, or data **without depending on the internet**, ensuring privacy and fast access anywhere, anytime.
+**Offline Knowledge Capsule** is an app that helps users securely store and access information even without an internet connection.  
+It’s designed to work fully offline after installation — perfect for fast, private, and reliable data access.
 
 ---
 
 ## 🎯 Key Features
-- 🌐 **Fully Offline Mode** – Works without internet once installed.  
-- 🔒 **Secure Local Storage** – Data stays safely on the user’s device.  
-- 🧩 **Organized Knowledge Vault** – Users can categorize and retrieve information easily.  
-- ☁️ **Optional Supabase Integration** – For cloud backup or sync (when online).  
-- ⚡ **Built with Vite + React + TypeScript** – Fast, efficient, and modern.  
-- 🎨 **Beautiful Interface** – Powered by Tailwind CSS and shadcn/ui components.
+- 🌐 **Offline-first:** Works completely offline after setup.  
+- 🔒 **Secure local storage:** Keeps your data safe on the device.  
+- 🧩 **Organized knowledge vault:** Store, search, and manage notes easily.  
+- ☁️ **Supabase integration (optional):** For cloud backup or sync when online.  
+- ⚡ **Built with:** React, TypeScript, Vite, Tailwind CSS, and shadcn/ui.
 
 ---
 
 ## 🧱 Tech Stack
 | Category | Technology |
 |-----------|-------------|
-| **Frontend** | React, TypeScript |
-| **Styling** | Tailwind CSS, shadcn/ui |
-| **Build Tool** | Vite |
-| **Backend / Database** | Supabase (optional) |
-| **Environment** | Node.js, VS Code |
+| Frontend | React, TypeScript |
+| Styling | Tailwind CSS, shadcn/ui |
+| Build Tool | Vite |
+| Database | Supabase |
+| Environment | Node.js |
 
 ---
 
-
-
+## ⚙️ How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bhoomikam05/offline-knowledge-capsule.git 🧠 Offline Knowledge Capsule  
+> A secure, offline-first knowledge storage and management application.
 
